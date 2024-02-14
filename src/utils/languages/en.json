@@ -1,0 +1,445 @@
+{
+  "404": {
+    "title": "Not Found!",
+    "heading": "Opps!!!",
+    "body": "This page you are looking for could not be found.",
+    "button": "Back to Home Page"
+  },
+  "Home": {
+    "title": "Home",
+    "banner": {
+      "tag": "👋 Kick start your project with me",
+      "title": "You are in the right place with advanced technology and modern business growth",
+      "subtitle": "👨‍💻 A passionate entrepreneur. I specialize in software development, entrepreneurship, marketing, media, and public relation. 🚀",
+      "button1": "About",
+      "button2": "Our Services"
+    }
+  },
+  "About": {
+    "title": "About",
+    "heading1": "Let's Know More About",
+    "heading2": "✨ Hasan Ahmad ✨",
+    "breif": "  👨‍💻 A passionate entrepreneur. I specialize in entrepreneurship,software development, marketing, media, and public relation. 🚀",
+    "experience1": {
+      "title": "Business and Entrepreneurship Experiences.",
+      "content": {
+        "l1": "✨ From 2018 onwards, I have dedicated myself to honing my proficiency in the realms of business planning, construction, and marketing.",
+        "l2": "Over this period, I have crafted numerous business plans for entrepreneurial ventures and devised comprehensive marketing strategies for small enterprises.",
+        "l3": "My skill set encompasses adept market analysis, the implementation of effective tests, and the proficient execution of feasibility studies, business plans, and marketing strategies."
+      }
+    },
+    "experience2": {
+      "title": "Software Development Experiences.",
+      "content": {
+        "l1": "💼 Over the past 5+ years, I've been on an exciting journey, freelancing and full time work in software development. my experience is focused in web software engineering and software project analysis and design it.",
+        "l2": "✨ I'm not just about coding; I'm about solving problems and creating solutions that make a difference.",
+        "l3": "I have completed 40+ projects including...",
+        "l4": "🌐 Web Applications. ",
+        "l5": "👨‍💻 Business Websites. ",
+        "l6": "👨‍💻 Software as a Service (SAAS)."
+      }
+    }
+  },
+  "Services": {
+    "title": "Services",
+    "heading1": "✨ Services ✨",
+    "heading2": "What Can I Do?",
+    "breif": "👨‍💻 I help ambitious companies and people like yours generate more profits by increasing awareness, marketing and business plans, websites and web application solutions 🚀"
+  },
+  "ServicesLinks": {
+    "web": {
+      "title": "Web Development",
+      "subtitle": "Business Websites, E Commerce, Landing Pages"
+    },
+    "business": {
+      "title": "Business Services",
+      "subtitle": "Feasibility Studies, Strategies, Plans"
+    },
+    "startups": {
+      "title": "Entrepreneurship",
+      "subtitle": "Startups, Business Growth"
+    },
+    "marketing": {
+      "title": "Marketing",
+      "subtitle": "Research, Marketing Plans and More"
+    },
+    "ai": {
+      "title": "Artificial Intelligence",
+      "subtitle": "AI SaaS, AI Integration, AI Agent"
+    }
+  },
+  "QuickLinks": {
+    "title": "Quick Links",
+    "card": "Business Card",
+    "map": "Media Art Production",
+    "sitemap": "Site Map",
+    "mission": "Mission",
+    "transparency": "Transparency"
+  },
+  "FAQ": {
+    "title": "FAQ",
+    "heading": "✨ Frequently asked questions ✨",
+    "button": "Check",
+    "software": {
+      "title": "Software Development",
+      "q1": {
+        "q": "What kind of web applications can you develop?",
+        "a": "I provide a wide range of web development services tailored to the needs of individuals, startups, and small companies. Our services include business websites, portfolios, e-commerce websites, landing pages, content management systems (CMS), and more."
+      },
+      "q2": {
+        "q": "What Technologies Are use in Web Development?",
+        "a": "I specialize in JavaScript, TypeScript, React js, Next js, Node js, MySQL, MongoDB, Prisma"
+      },
+      "q3": {
+        "q": "Can you provide examples of Web applications you've developed in the past?",
+        "a": "Absolutely! you can contact me and I will share some examples with you."
+      },
+      "q4": {
+        "q": "What are the benefits of having a business website for my company or brand?",
+        "a": "A business website serves as a digital storefront for your company, providing a platform to showcase your products or services, engage with customers, and establish credibility in the online marketplace. Our customized business websites are designed to enhance your brand presence and drive conversions."
+      },
+      "q5": {
+        "q": "How can a portfolio website help individuals showcase their work and attract clients or employers?",
+        "a": "A portfolio website is an essential tool for individuals such as artists, designers, photographers, and freelancers to showcase their work, skills, and achievements. Our portfolio websites are designed to impress potential clients or employers, highlighting your talents and expertise in a visually compelling manner."
+      },
+      "q6": {
+        "q": "What features do you include in e-commerce websites to facilitate online selling for small businesses?",
+        "a": "Our e-commerce websites are equipped with a range of features and functionalities to streamline the online selling process for small businesses. From product catalog management and secure payment gateways to order tracking and inventory management, we ensure a seamless shopping experience for your customers."
+      },
+      "q7": {
+        "q": "What are landing pages, and how can they benefit my business or marketing campaigns?",
+        "a": "Landing pages are standalone web pages designed with a specific goal or call-to-action in mind, such as capturing leads or promoting a product or service. My landing pages are optimized for conversion, featuring compelling content, clear CTAs, and user-friendly design to maximize engagement and drive results."
+      },
+      "q8": {
+        "q": "What content management systems (CMS) do you offer, and how do they simplify website management for clients?",
+        "a": "We offer a variety of CMS options, including WordPress, Shopify, Magento, and more, to meet the diverse needs of our clients. Our CMS solutions empower clients to manage their website content easily, update pages, add new products, and make other changes without requiring technical expertise."
+      },
+      "q9": {
+        "q": "Can you integrate additional features or functionalities into my website, such as contact forms, social media integration, or analytics tracking?",
+        "a": "Yes, I offer custom web development services to integrate additional features and functionalities into your website based on your specific requirements. Whether you need contact forms to capture leads, social media integration to enhance engagement, or analytics tracking to monitor performance, we can tailor the solution to suit your needs."
+      },
+      "q10": {
+        "q": "How do you ensure that my website is responsive and optimized for mobile devices?",
+        "a": "I prioritize responsive web design principles to ensure that your website looks and functions seamlessly across all devices and screen sizes, including desktops, laptops, tablets, and smartphones. Our mobile-friendly websites offer a consistent user experience, driving engagement and conversions across platforms."
+      },
+      "q11": {
+        "q": "Do you provide ongoing support and maintenance services for websites after launch?",
+        "a": "Yes, I offer ongoing support and maintenance services to ensure that your website remains secure, up-to-date, and optimized for performance. From software updates and security patches to troubleshooting and technical support, we provide comprehensive support to keep your website running smoothly."
+      },
+      "q12": {
+        "q": "How do you customize your web development services to meet the specific needs and goals of each client?",
+        "a": "We take a personalized approach to web development, collaborating closely with each client to understand their unique objectives, target audience, and brand identity. Whether you're an individual entrepreneur or a small company, we tailor our web development solutions to align with your vision, budget, and timeline, ensuring a website that meets your needs and exceeds your expectations."
+      }
+    },
+    "business": {
+      "title": "Business Development",
+      "q1": {
+        "q": "What types of business services do you offer for individuals and companies?",
+        "a": "I provide a comprehensive range of business services tailored to the needs of individuals, startups, and small companies. Our services include feasibility studies, business strategies, business plans, market research, marketing strategies, marketing plans, branding, influencer marketing, public relations, Meta Ads, Google Ads, and SEO."
+      },
+      "q2": {
+        "q": "How can feasibility studies benefit my business or project?",
+        "a": "Feasibility studies help assess the viability of a business idea or project by analyzing factors such as market demand, competition, financial projections, and resource requirements. Our detailed feasibility studies provide valuable insights to inform decision-making and mitigate risks."
+      },
+      "q3": {
+        "q": "What role do business strategies play in driving growth and success for companies?",
+        "a": "Business strategies outline the overarching goals and objectives of a company and define the roadmap for achieving them. Our customized business strategies help companies identify opportunities, overcome challenges, and capitalize on their strengths to drive sustainable growth and success."
+      },
+      "q4": {
+        "q": "What methodologies do you employ for market research and how can it benefit my business?",
+        "a": "Our market research services utilize a combination of qualitative and quantitative methodologies to gather valuable insights into market trends, customer preferences, and competitive landscapes. By understanding your target market, we help you make informed decisions and develop strategies to gain a competitive edge."
+      },
+      "q5": {
+        "q": "How do you develop effective marketing strategies and plans for small businesses?",
+        "a": "Our marketing strategies and plans are tailored to the unique needs and objectives of small businesses. We analyze market dynamics, target audience demographics, and competitive positioning to create customized marketing strategies that drive brand awareness, engagement, and conversion."
+      },
+      "q6": {
+        "q": "How can influencer marketing and public relations help my business enhance their visibility and credibility?",
+        "a": "Influencer marketing and public relations are powerful tools for small businesses to amplify their reach, generate buzz, and build trust with their audience. Our services include identifying relevant influencers, developing strategic partnerships, and crafting compelling PR campaigns to elevate your brand presence."
+      },
+      "q7": {
+        "q": "What are Meta Ads, Google Ads, and SEO, and how can they benefit my business?",
+        "a": "Meta Ads, Google Ads, and SEO (Search Engine Optimization) are digital marketing strategies aimed at increasing online visibility, driving traffic, and generating leads for your business. "
+      },
+      "q8": {
+        "q": "What market testing methods do you employ to validate new ideas?",
+        "a": "Through targeted market testing strategies, I validate your product or service concepts, ensuring they resonate with your target audience. From beta testing to focus groups, I gather valuable feedback to refine your offerings and maximize market acceptance."
+      }
+    },
+    "startups": {
+      "title": "Entrepreneurship and Startups",
+      "q1": {
+        "q": "What specific services do you offer to startups and entrepreneurs?",
+        "a": "I provide a range of services tailored to the unique needs of startups and entrepreneurs, including business plan development, market research, product validation, and technology consulting."
+      },
+      "q2": {
+        "q": "How can you help me refine my startup idea and develop a viable business model?",
+        "a": "I offer expertise in refining startup ideas, conducting market validation, and developing robust business models that align with your vision and objectives. Our goal is to help you transform your idea into a successful and sustainable business venture."
+      },
+      "q3": {
+        "q": "How do you assist startups in securing funding and investment?",
+        "a": "I provide guidance and support throughout the funding process, helping startups prepare investor-ready pitch decks, financial projections, and business plans. Additionally, we offer networking opportunities and introductions to potential investors and funding sources."
+      },
+      "q4": {
+        "q": "Can you assist with product development and prototyping for early-stage startups?",
+        "a": "Yes, I offer product development and prototyping services to help early-stage startups bring their ideas to life. From MVP (Minimum Viable Product) development to rapid prototyping, we provide the expertise and resources needed to turn your concept into a tangible product."
+      },
+
+      "q5": {
+        "q": "How can you help me refine my startup idea and develop a viable business model?",
+        "a": "I offer expertise in refining startup ideas, conducting market validation, and developing robust business models that align with your vision and objectives. Our goal is to help you transform your idea into a successful and sustainable business venture."
+      },
+      "q6": {
+        "q": "What strategies do you employ to assist startups in gaining traction and acquiring customers?",
+        "a": "I leverage our experience in marketing, digital strategy, and growth hacking to help startups gain traction and acquire customers cost-effectively. From targeted digital marketing campaigns to strategic partnerships, we employ a variety of tactics to drive growth and visibility."
+      }
+    },
+    "ai": {
+      "title": "AI Services",
+      "q1": {
+        "q": "What AI services do you offer?",
+        "a": "I provide a range of AI services tailored to the needs of individuals, startups, and companies. Our services include AI websites, AI agents, AI chatbots, AI presentations, and AI SaaS solutions."
+      },
+      "q2": {
+        "q": "How do AI agents enhance customer interactions and support for businesses?",
+        "a": "AI agents, also known as virtual assistants or chatbots, leverage natural language processing and machine learning to automate customer support, answer queries, and provide personalized assistance in real-time. Our AI agents streamline customer interactions, improve response times, and reduce support costs for businesses."
+      },
+      "q3": {
+        "q": "What are AI chatbots, and how can they improve communication and engagement with customers?",
+        "a": "AI chatbots are intelligent software programs that simulate human conversation through text or voice interactions. Our AI chatbots can be deployed on websites, messaging platforms, or social media channels to provide instant responses, answer FAQs, and guide users through the sales or support process."
+      },
+      "q4": {
+        "q": "What are AI SaaS solutions, and how do they empower businesses with artificial intelligence capabilities?",
+        "a": "AI SaaS solutions are software-as-a-service platforms that integrate artificial intelligence capabilities to automate tasks, optimize workflows, and generate actionable insights for businesses."
+      }
+    },
+    "faq1": {
+      "q": "What services do you provide?",
+      "a": "I Provide an Ai Services, Web application development. Saas application development. Developing a Business Plan and Feasibility studies. Conduct Market studies and Analyses. Market testing. Marketing, e-marketing, public relations, and influencer marketing."
+    },
+    "faq2": {
+      "q": "How can I contact you for potential project or collaboration?",
+      "a": "You can easily reach out to me through the email or whatsapp."
+    },
+    "faq3": {
+      "q": "Can you show examples of your recent work?",
+      "a": "Absolutely, you can contact me immediately and I will provide you with a portfolio of my work."
+    }
+  },
+  "Portfolio": {
+    "title": "Portfolio"
+  },
+  "Contact": {
+    "title": "Contact",
+    "heading1": {
+      "title": "Send me an email.",
+      "subtitle": "👋 Hi, I'm Hasan Ahmad. I help people develop their businesses and integrate modern technologies into it, Let's Contact!",
+      "businessemail": "Business Email:",
+      "personalemail": "Personal Email:"
+    },
+    "heading2": {
+      "title": "Send me on WhatsApp",
+      "subtitle": "If you need urgent support, do not hesitate to contact me via WhatsApp",
+      "button": "Whatsapp Me!"
+    },
+    "heading3": {
+      "title": "Follow Me on Social Media Platforms"
+    }
+  },
+  "AboutSection": {
+    "tag": "About Me",
+    "title": "👋 Hi, I'm Hasan Ahmad. I help people develop their businesses and integrate modern technologies into it",
+    "content": "I also specialize in several fields, such as software development, business development, entrepreneurship, and marketing. I have very good experience in these fields, in addition to the fact that I study media and public relations.",
+    "button": "Learn More"
+  },
+  "ServicesSection": {
+    "title": "Having a hard time keeping up with Digital Transformation?",
+    "subtitle": "Well, you're in the right place. Adiostarios is your one stop for everything you need to build and grow your business.",
+    "business": {
+      "title": "Business Services",
+      "brief": "Where strategic vision meets actionable results. As a seasoned business expert, I bring a wealth of experience and proficiency across a spectrum of services tailored to drive success for your venture. Explore the comprehensive suite of offerings that can propel your business to new heights.",
+      "link": "Learn More 🚀"
+    },
+    "web": {
+      "title": "Web APPs Development",
+      "brief": "As a seasoned web developer, I specialize in the creation and implementation of cutting-edge web applications. My expertise lies in crafting bespoke solutions that cater to the unique needs of clients. From conceptualization to execution, I leverage my technical proficiency to develop dynamic and user-friendly web applications, ensuring optimal functionality and an exceptional user experience.",
+      "link": "Learn More 🚀"
+    },
+    "startups": {
+      "title": "Entrepreneurship",
+      "brief": "Expert guidance for aspiring entrepreneurs and startups to navigate the complexities of launching a successful business. Strategic advice on product development, funding, and market entry.",
+      "link": "Learn More 🚀"
+    }
+  },
+  "SkillsSection": {
+    "title": "✨ My Skills ✨",
+    "subtitle": "I design and create web services for amazing people around the world. I like work with new people. New people are new experiences.",
+    "tab1": "Business",
+    "tab2": "Web Development",
+    "tab3": "Artificial Intelligence",
+    "programming": {
+      "SaaS": "SaaS",
+      "Business Websites": "Business Websites",
+      "Portfolios": "Portfolios",
+      "E Commerce": "E Commerce",
+      "Landing Pages": "Landing Pages",
+      "TypeScript": "TypeScript",
+      "Next JS": "Next JS",
+      "React JS": "React JS",
+      "Node JS": "Node JS",
+      "MongoDB": "MongoDB",
+      "MySQL": "MySQL",
+      "Prisma": "Prisma",
+      "Git": "Git",
+      "GitHub": "GitHub",
+      "GitLab": "GitLab",
+      "Docker": "Docker",
+      "WordPress": "WordPress"
+    },
+    "business": {
+      "Entrepreneurship": "Entrepreneurship",
+      "Startups": "Startups",
+      "Feasibility Studies": "Feasibility Studies",
+      "Business Strategies": "Business Strategies",
+      "Business Plans": "Business Plans",
+      "ERP Management": "ERP Management",
+      "Market Research": "Market Research",
+      "Marketing Strategies": "Marketing Strategies",
+      "Marketing Plans": "Marketing Plans",
+      "Branding": "Branding",
+      "Influencer Marketing": "Influencer Marketing",
+      "Public Relations": "Public Relations",
+      "Meta Ads": "Meta Ads",
+      "Google Ads": "Google Ads",
+      "SEO": "SEO"
+    },
+    "ai": {
+      "AI SaaS": "AI SaaS",
+      "AI Integration": "AI Integration",
+      "ChatGPT Apps": "ChatGPT Apps",
+      "AI Websites": "AI Websites",
+      "AI Chatbot": "AI Chatbot",
+      "AI Agent": "AI Agent"
+    }
+  },
+  "CTASection": {
+    "title": "Do you have a project in Mind? 🚀",
+    "subtitle": "Embark on a journey toward a powerful and captivating online presence. Whether you're starting from scratch or looking to revamp your existing project, I am here to transform your ideas into a compelling reality.",
+    "button": "Whatsapp Me"
+  },
+  "Business Services": {
+    "header": {
+      "title": "Business Development Services 👨‍💻",
+      "content": "Where strategic vision meets actionable results. As a seasoned business expert, I bring a wealth of experience and proficiency across a spectrum of services tailored to drive success for your venture.  Explore the comprehensive suite of offerings that can propel your business to new heights.",
+      "button": "Whatsapp Me"
+    },
+    "body": {
+      "title": "Business Services ✨",
+      "Feasibility Studies": {
+        "title": "Feasibility Studies",
+        "subtitle": "Gain valuable insights into the viability and potential success of your business ideas.",
+        "breif": "In depth analysis to assess market conditions, financial feasibility, and potential challenges.",
+        "Market Analysis": "Market Analysis: Thorough examination of market conditions, potential competitors, and customer demand to gauge the feasibility of your business concept.",
+        "Financial Projections": " Financial Projections: In-depth financial modeling and forecasting to assess the economic viability and potential return on investment.",
+        "Risk Assessment": "Risk Assessment: Identify and analyze potential risks that may impact the success of your business, allowing for proactive mitigation strategies."
+      },
+      "Business Strategies": {
+        "title": "Business Strategies",
+        "subtitle": "Develop robust business strategies that align with your long-term goals and industry dynamics.",
+        "breif": "Tailored approaches to maximize your competitive advantage and market positioning.",
+        "Competitive Analysis": "Competitive Analysis: Comprehensive evaluation of competitors to identify strengths, weaknesses, opportunities, and threats.",
+        "SWOT Analysis": "SWOT Analysis: Utilize SWOT analysis to determine your business's internal strengths and weaknesses, as well as external opportunities and threats.",
+        "Strategic Planning": "Strategic Planning: Develop short-term and long-term strategies that align with your business goals and market dynamics."
+      },
+      "cta": {
+        "title": "Let's Build Your Future 🚀",
+        "content": "Embark on a journey toward a powerful and captivating online presence. Whether you're starting from scratch or looking to revamp your existing website, I am here to transform your ideas into a compelling reality.",
+        "button": "Whatsapp Me"
+      }
+    }
+  },
+  "Entrepreneurship": {
+    "header": {
+      "title": "Entrepreneurship and Startups",
+      "content": "Expert guidance for aspiring entrepreneurs and startups to navigate the complexities of launching a successful business. Strategic advice on product development, funding, and market entry.",
+      "button": "Whatsapp Me"
+    },
+    "body": {
+      "title": "Startups Services ✨",
+      "Idea Validation": {
+        "title": "Idea Validation",
+        "subtitle": "Evaluate and validate business ideas to ensure they align with market needs and have the potential for success.",
+        "Market Research": "Market Research: Conduct thorough market research to evaluate the demand for your product or service.",
+        "Feasibility Analysis": "Feasibility Analysis: Assess the feasibility of your business idea, considering market trends, potential competitors, and consumer needs.",
+        "Prototyping": "Prototyping: Develop prototypes or minimum viable products (MVPs) to test and validate your concept with real users."
+      },
+      "Innovation": {
+        "title": "Business Model Innovation",
+        "subtitle": "Strategic advice on product development, funding, and market entry.",
+        "Canvas": "Business Model Canvas: Utilize the Business Model Canvas framework to visualize, iterate, and refine your business model.",
+        "Revenue": "Revenue Streams: Identify and optimize multiple revenue streams, ensuring a sustainable and profitable business model.",
+        "Scalable": "Scalable Technology: Select and implement scalable technologies that can grow with your startup's increasing demands.",
+        "Operational": "Operational Scalability: Develop operational processes and systems that can adapt to increased workload and expansion.",
+        "Global": "Global Expansion: Plan for scalability on a global scale, considering international markets and diverse customer segments."
+      },
+      "Funding": {
+        "title": "Funding Guidance",
+        "subtitle": "The budgeting scheme or the payment plan under which the benefits are to be financed.",
+        "Bootstrapping": "Bootstrapping Strategies: Explore bootstrapping methods to fund your startup using personal savings, revenue reinvestment, or small-scale investments.",
+        "Angel": "Angel Investors: Identify potential angel investors and present compelling business cases to secure early-stage funding.",
+        "Venture": "Venture Capital: Develop pitch decks and business plans to attract venture capital funding for scalable business models."
+      }
+    }
+  },
+  "WebDev": {
+    "header": {
+      "title": "Web APPs Development 👨‍💻",
+      "content": "As a seasoned web developer, I specialize in the creation and implementation of cutting-edge web applications. My expertise lies in crafting bespoke solutions that cater to the unique needs of clients. From conceptualization to execution, I leverage my technical proficiency to develop dynamic and user-friendly web applications, ensuring optimal functionality and an exceptional user experience.",
+      "button": "Whatsapp Me"
+    },
+    "body": {
+      "title": "Web Solutions ✨",
+      "Custom Web": {
+        "title": "Custom Web App Development",
+        "content": "Harness the power of personalized web applications tailored to meet your specific business requirements. Whether you need a robust e-commerce platform, a dynamic content management system, or a sophisticated customer portal, I've got you covered."
+      },
+      "Responsive": {
+        "title": "Responsive Website Design",
+        "content": "Ensure an optimal viewing experience across all devices with our responsive web design, enhancing accessibility and user satisfaction."
+      },
+      "Frontend": {
+        "title": "Front-End Development",
+        "content": "Create an aesthetically pleasing and intuitive user experience with our front-end development expertise, incorporating the latest design trends and technologies."
+      },
+      "Backend": {
+        "title": "Back-End Development",
+        "content": "Develop scalable and efficient server-side applications, databases, and APIs for seamless functionality and data management."
+      },
+      "Ecommerce": {
+        "title": "E-Commerce Solutions",
+        "content": "Elevate your online business with our tailored e-commerce solutions, including secure payment gateways and intuitive product catalogs."
+      },
+      "Wordpress": {
+        "title": "No Code and Wordpress",
+        "content": "Harness the power of WordPress for a versatile and user-friendly website. Whether you need a blog, business site, or online store, our WordPress development services ensure a seamless and customizable solution."
+      },
+      "cta": {
+        "title": "Let's Build Your Digital Future 🚀",
+        "content": "Embark on a journey toward a powerful and captivating online presence. Whether you're starting from scratch or looking to revamp your existing website, I am here to transform your ideas into a compelling reality.",
+        "button": "Whatsapp Me"
+      }
+    }
+  },
+
+  "bio": {
+    "title": "Bio",
+    "name": "Hasan Ahmad",
+    "positions": "Entrepreneur, Software Engineer, Marketing Engineer"
+  },
+  "mission": {
+    "title": "Mission ✨",
+    "body": "My mission is to help people develop their businesses and integrate modern technologies into them. I do this best by providing high-quality services to many companies and people. I also provide many free consultations and lessons for people to help them understand modern technology and develop themselves and their businesses"
+  },
+  "footer": "Copyrights © 2022 Hasan Ahmad | All Rights Reserved.",
+  "construction": "Sorry, this page is under construction"
+}
