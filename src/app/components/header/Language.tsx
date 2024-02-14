@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React from "react";
 import { Button } from "@mui/material";
 import { useSelector, useDispatch } from "@/store/hooks";
