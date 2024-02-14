@@ -68,6 +68,7 @@ const ServicesPage = () => {
                   <CardMedia
                     component="img"
                     image={avatars.business}
+                    alt="business"
                     sx={{ height: 180, borderRadius: 2, objectFit: "contain" }}
                   />
                 </Grid>
@@ -99,6 +100,7 @@ const ServicesPage = () => {
                   <CardMedia
                     component="img"
                     image={avatars.web}
+                    alt="web-development"
                     sx={{ height: 200, borderRadius: 2, objectFit: "contain" }}
                   />
                 </Grid>
@@ -131,6 +133,7 @@ const ServicesPage = () => {
                   <CardMedia
                     component="img"
                     image={avatars.startups}
+                    alt="startups"
                     sx={{ height: 200, borderRadius: 2, objectFit: "contain" }}
                   />
                 </Grid>
