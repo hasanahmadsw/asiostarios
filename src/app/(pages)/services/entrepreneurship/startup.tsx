@@ -78,8 +78,8 @@ const StartupServices = () => {
           ) : (
             <Image
               src={`/outerspace.svg`}
-              width={380}
-              height={300}
+              width={320}
+              height={250}
               alt="outerspace"
             />
           )}

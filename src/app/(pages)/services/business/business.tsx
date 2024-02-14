@@ -77,8 +77,8 @@ const BusinessServices = () => {
           ) : (
             <Image
               src={`/consulting.svg`}
-              width={380}
-              height={280}
+              width={300}
+              height={200}
               alt="business-development"
             />
           )}
