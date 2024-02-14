@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import NextApp from "./app";
-
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 export const metadata: Metadata = {
   metadataBase: new URL(`${process.env.NEXT_PUBLIC_BASE_URL}`),
   title: {
@@ -39,5 +40,11 @@ export const metadata: Metadata = {
   },
 };
 export default function RootLayout({ children }: any) {
-  return <NextApp>{children}</NextApp>;
+  return (
+    <NextApp>
+      {children}
+      <Analytics />
+      <SpeedInsights />
+    </NextApp>
+  );
 }
