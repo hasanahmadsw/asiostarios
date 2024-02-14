@@ -19,7 +19,6 @@ const Languages = [
 ];
 
 const Language = () => {
-  const [anchorEl, setAnchorEl] = React.useState(null);
   const dispatch = useDispatch();
   const customizer = useSelector((state: AppState) => state.customizer);
   const currentLang =
@@ -29,6 +28,11 @@ const Language = () => {
   useEffect(() => {
     i18n.changeLanguage(customizer.isLanguage);
     // eslint-disable-next-line react-hooks/exhaustive-deps
+    if (customizer.activeDir === "ltr") {
+      dispatch(setLanguage("en"));
+    } else {
+      dispatch(setLanguage("ar"));
+    }
   }, []);
 
   return (
@@ -38,12 +42,12 @@ const Language = () => {
         variant="contained"
         color="primary"
         onClick={() => {
-          if (customizer.activeDir === "ltr") {
-            dispatch(setLanguage("ar"));
+          if (customizer.isLanguage === "en") {
             dispatch(setDir("rtl"));
+            // dispatch(setLanguage("ar"));
           } else {
-            dispatch(setLanguage("en"));
             dispatch(setDir("ltr"));
+            // dispatch(setLanguage("en"));
           }
         }}
       >
