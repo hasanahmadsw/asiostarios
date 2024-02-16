@@ -9,8 +9,8 @@ export const metadata: Metadata = {
     title: "About",
     description:
       "My skill set encompasses adept market analysis, the implementation of effective tests, and the proficient execution of feasibility studies, business plans, and marketing strategies.",
-    url: `${process.env.NEXT_PUBLIC_BASE_URL}/about`,
-    images: `${process.env.NEXT_PUBLIC_BASE_URL}/opengraph-image.png`,
+    url: `https://www.hasanahmad.net/about`,
+    images: `https://www.hasanahmad.net/opengraph-image.png`,
     siteName: "Hasan Ahmad",
     type: "website",
   },

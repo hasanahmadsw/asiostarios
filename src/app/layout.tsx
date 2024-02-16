@@ -35,8 +35,8 @@ export const metadata: Metadata = {
     },
     description:
       "Hi, I'm Hasan Ahmad. I help people develop their businesses and integrate modern technologies into it",
-    url: `${process.env.NEXT_PUBLIC_BASE_URL}`,
-    images: `${process.env.NEXT_PUBLIC_BASE_URL}/opengraph-image.png`,
+    url: `https://www.hasanahmad.net`,
+    images: `https://www.hasanahmad.net/opengraph-image.png`,
     siteName: "Hasan Ahmad",
     type: "website",
   },
