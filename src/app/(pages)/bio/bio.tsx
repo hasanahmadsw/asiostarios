@@ -107,7 +107,7 @@ export default function Bio() {
             {t(`AboutSection.button`)}
           </CustomLink>
         </Paper>
-        <Paper variant="outlined" sx={{ paddingX: "2rem" }}>
+        <Paper variant="outlined" sx={{ paddingX: "0.5rem" }}>
           <SkillsSection />
         </Paper>
       </Container>

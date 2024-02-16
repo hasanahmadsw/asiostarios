@@ -19,30 +19,30 @@ const links = {
 
 const Social = () => {
   return (
-    <Stack spacing={1} direction="row">
+    <Stack spacing={0} direction="row">
       <Link href={links.instagram} target="_blank">
         <IconButton color="primary">
-          <IconBrandInstagram size="44" stroke="1.2" />
+          <IconBrandInstagram size="42" stroke="1.2" />
         </IconButton>
       </Link>
       <Link href={links.facebook} target="_blank">
         <IconButton color="primary">
-          <IconBrandFacebook size="44" stroke="1.2" />
+          <IconBrandFacebook size="42" stroke="1.2" />
         </IconButton>
       </Link>
       <Link href={links.linkenin} target="_blank">
         <IconButton color="primary">
-          <IconBrandLinkedin size="44" stroke="1.2" />
+          <IconBrandLinkedin size="42" stroke="1.2" />
         </IconButton>
       </Link>
       <Link href={links.whatsapp} target="_blank">
         <IconButton color="primary">
-          <IconBrandWhatsapp size="44" stroke="1.2" />
+          <IconBrandWhatsapp size="42" stroke="1.2" />
         </IconButton>
       </Link>
       <Link href={links.mail} target="_blank">
         <IconButton color="primary">
-          <IconMail size="44" stroke="1.2" />
+          <IconMail size="42" stroke="1.2" />
         </IconButton>
       </Link>
     </Stack>
