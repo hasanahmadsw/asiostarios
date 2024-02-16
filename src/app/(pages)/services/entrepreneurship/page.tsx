@@ -9,7 +9,8 @@ export const metadata: Metadata = {
     title: "Entrepreneurship and Startups Services",
     description:
       "Expert guidance for aspiring entrepreneurs and startups to navigate the complexities of launching a successful business. Strategic advice on product development, funding, and market entry.",
-    url: "https://hasanahmad.net/services/entrepreneurship",
+    url: `${process.env.NEXT_PUBLIC_BASE_URL}/services/entrepreneurship`,
+    images: `${process.env.NEXT_PUBLIC_BASE_URL}/opengraph-image.png`,
   },
 };
 const Page = () => {

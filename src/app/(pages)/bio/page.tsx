@@ -9,7 +9,8 @@ export const metadata: Metadata = {
     title: "Business Card",
     description:
       "A passionate entrepreneur. I specialize in entrepreneurship,software development, marketing, media, and public relation.",
-    url: "https://hasanahmad.net/bio",
+    url: `${process.env.NEXT_PUBLIC_BASE_URL}/bio`,
+    images: `${process.env.NEXT_PUBLIC_BASE_URL}/opengraph-image.png`,
   },
 };
 const Page = () => {

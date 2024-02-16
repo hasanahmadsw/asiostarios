@@ -5,7 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 export const metadata: Metadata = {
   metadataBase: new URL(`${process.env.NEXT_PUBLIC_BASE_URL}`),
   title: {
-    default: "Hasan Ahmad | Asiostarios",
+    default: "Hasan Ahmad",
     template: "%s | Hasan Ahmad",
   },
   description:
@@ -14,7 +14,9 @@ export const metadata: Metadata = {
   applicationName: "Hasan Ahmad Official Website",
   keywords: [
     "Hasan Ahmad",
-    "Asiostarios",
+    "Hasan",
+    "Hasan Ahmad Business",
+    "Media Production",
     "Hasan Website",
     "حسن أحمد",
     "Hasan",
@@ -28,7 +30,7 @@ export const metadata: Metadata = {
   publisher: "Hasan Ahmad",
   openGraph: {
     title: {
-      default: "Hasan Ahmad | Asiostarios",
+      default: "Hasan Ahmad",
       template: "%s | Hasan Ahmad",
     },
     description:

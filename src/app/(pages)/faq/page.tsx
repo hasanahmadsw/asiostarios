@@ -9,7 +9,8 @@ export const metadata: Metadata = {
     title: "FAQ",
     description:
       "You're in the right place. Adiostarios is your one stop for everything you need to build and grow your business.",
-    url: "https://hasanahmad.net/faq",
+    url: `${process.env.NEXT_PUBLIC_BASE_URL}/faq`,
+    images: `${process.env.NEXT_PUBLIC_BASE_URL}/opengraph-image.png`,
   },
 };
 const Page = () => {
