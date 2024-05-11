@@ -10,7 +10,7 @@ import Link from "next/link";
 import React from "react";
 
 const links = {
-  instagram: "https://instagram.com/hhbinali",
+  instagram: "https://instagram.com/hsnsmade",
   facebook: "https://facebook.com/hasanahmadsw",
   linkenin: "https://linkedin.com/in/hasanaliahmad/",
   whatsapp: "https://wa.me/+971508838637",
